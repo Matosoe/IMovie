@@ -1,7 +1,8 @@
-package br.com.fiap.class34scj.imovie
+package br.com.fiap.class34scj.imovie.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.fiap.class34scj.imovie.R
 
 class MainActivity : AppCompatActivity() {
 

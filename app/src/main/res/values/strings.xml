@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IMovie</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="appName">IMovie</string>
+    <string name="title_activity_log_in">LogInActivity</string>
 </resources>
